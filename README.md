@@ -4,6 +4,7 @@
 ### A Personal Token Terms of Service
 
 **Original Author:** [Reuben Bramanathan](http://bramanathan.com "Reuben Bramanathan")
+**lexDAO subAuthor:** [Ross Campbell](https://twitter.com/r_ross_campbell "Ross Campbell")
 
 **This is a template Terms of Service for your personal token.**
 
